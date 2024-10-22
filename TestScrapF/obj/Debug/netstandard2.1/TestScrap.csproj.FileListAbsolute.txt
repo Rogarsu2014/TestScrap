@@ -1,0 +1,11 @@
+R:\VisualStudioProjects\LethalCompanyMods\TestScrap\TestScrap\bin\Debug\netstandard2.1\KnightTestScrap.deps.json
+R:\VisualStudioProjects\LethalCompanyMods\TestScrap\TestScrap\bin\Debug\netstandard2.1\KnightTestScrap.dll
+R:\VisualStudioProjects\LethalCompanyMods\TestScrap\TestScrap\obj\Debug\netstandard2.1\TestScrap.csproj.AssemblyReference.cache
+R:\VisualStudioProjects\LethalCompanyMods\TestScrap\TestScrap\obj\Debug\netstandard2.1\MyPluginInfo.cs
+R:\VisualStudioProjects\LethalCompanyMods\TestScrap\TestScrap\obj\Debug\netstandard2.1\TestScrap.GeneratedMSBuildEditorConfig.editorconfig
+R:\VisualStudioProjects\LethalCompanyMods\TestScrap\TestScrap\obj\Debug\netstandard2.1\TestScrap.AssemblyInfoInputs.cache
+R:\VisualStudioProjects\LethalCompanyMods\TestScrap\TestScrap\obj\Debug\netstandard2.1\TestScrap.AssemblyInfo.cs
+R:\VisualStudioProjects\LethalCompanyMods\TestScrap\TestScrap\obj\Debug\netstandard2.1\TestScrap.csproj.CoreCompileInputs.cache
+R:\VisualStudioProjects\LethalCompanyMods\TestScrap\TestScrap\obj\Debug\netstandard2.1\KnightTestScrap.dll
+R:\VisualStudioProjects\LethalCompanyMods\TestScrap\TestScrap\bin\Debug\netstandard2.1\LethalLib.dll
+R:\VisualStudioProjects\LethalCompanyMods\TestScrap\TestScrap\obj\Debug\netstandard2.1\TestScrap.csproj.Up2Date
